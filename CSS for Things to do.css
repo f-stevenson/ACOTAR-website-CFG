@@ -1,0 +1,42 @@
+body {
+    background-color: #EBCCC6;
+  }
+
+  img.logo{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 10%;
+  }
+
+  .buttons{
+    border-style:solid;
+    border-width:thick;
+    border-color:#80A894;
+    background:#80A894;
+  }
+
+  .btn-primary{
+    background-color: #cc46db !important;
+}
+
+#activities{
+  padding:4% !important;
+  font-size:20px;
+  color:#19596C;
+  text-align: center;
+  font-family:"Lucida Handwriting";
+}
+
+#calanmai{
+  padding:2%;
+}
+
+#starfall{
+  padding:2%;
+}
+
+#prison{
+  padding:2%;
+}
